@@ -1,3 +1,3 @@
 # Docs
 
-This is my portfolio website. @2025 Hurlburt
+This is my portfolio website. @2025 Ian Almeida
